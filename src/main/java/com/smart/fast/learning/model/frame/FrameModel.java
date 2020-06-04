@@ -1,11 +1,11 @@
-package com.smart.fast.learning.model;
+package com.smart.fast.learning.model.frame;
 
-import com.smart.fast.learning.model.model.ImageRbgLayersDevider;
-import com.smart.fast.learning.model.model.LayerConfig;
-import com.smart.fast.learning.model.model.LayerHandleThreadManager;
-import com.smart.fast.learning.model.algo.FramePointArrangeHandler;
-import com.smart.fast.learning.model.domain.FramePointFor2D;
-import com.smart.fast.learning.model.domain.IntegerArray2D;
+import com.smart.fast.learning.model.frame.model.ImageRbgLayersDevider;
+import com.smart.fast.learning.model.frame.model.LayerConfig;
+import com.smart.fast.learning.model.frame.model.LayerHandleThreadManager;
+import com.smart.fast.learning.model.frame.algo.FramePointArrangeHandler;
+import com.smart.fast.learning.model.frame.domain.FramePointFor2D;
+import com.smart.fast.learning.model.frame.domain.IntegerArray2D;
 
 import java.awt.image.BufferedImage;
 import java.util.Collections;

@@ -1,12 +1,12 @@
-package com.smart.fast.learning.model.model;
+package com.smart.fast.learning.model.frame.model;
 
-import com.smart.fast.learning.model.algo.Array2DClassifyHandler;
-import com.smart.fast.learning.model.algo.Array2DSharpHandler;
-import com.smart.fast.learning.model.algo.ClassifyFramePointHandler;
-import com.smart.fast.learning.model.domain.ClassifyForArray2D;
-import com.smart.fast.learning.model.domain.FramePointFor2D;
-import com.smart.fast.learning.model.domain.IntegerArray2D;
-import com.smart.fast.learning.model.domain.PointFor2D;
+import com.smart.fast.learning.model.frame.algo.Array2DClassifyHandler;
+import com.smart.fast.learning.model.frame.algo.Array2DSharpHandler;
+import com.smart.fast.learning.model.frame.algo.ClassifyFramePointHandler;
+import com.smart.fast.learning.model.frame.domain.ClassifyForArray2D;
+import com.smart.fast.learning.model.frame.domain.FramePointFor2D;
+import com.smart.fast.learning.model.frame.domain.IntegerArray2D;
+import com.smart.fast.learning.model.frame.domain.PointFor2D;
 
 import java.util.ArrayList;
 import java.util.List;

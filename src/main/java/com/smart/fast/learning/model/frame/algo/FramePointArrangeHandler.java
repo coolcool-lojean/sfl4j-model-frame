@@ -1,7 +1,7 @@
-package com.smart.fast.learning.model.algo;
+package com.smart.fast.learning.model.frame.algo;
 
-import com.smart.fast.learning.model.domain.FramePointFor2D;
-import com.smart.fast.learning.model.domain.PointFor2D;
+import com.smart.fast.learning.model.frame.domain.FramePointFor2D;
+import com.smart.fast.learning.model.frame.domain.PointFor2D;
 
 import java.util.ArrayList;
 import java.util.List;

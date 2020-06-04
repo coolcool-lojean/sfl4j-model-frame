@@ -1,4 +1,4 @@
-package com.smart.fast.learning.model.domain;
+package com.smart.fast.learning.model.frame.domain;
 
 public class PointFor2D {
 

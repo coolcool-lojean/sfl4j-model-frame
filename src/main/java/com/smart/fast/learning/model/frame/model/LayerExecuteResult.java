@@ -1,6 +1,6 @@
-package com.smart.fast.learning.model.model;
+package com.smart.fast.learning.model.frame.model;
 
-import com.smart.fast.learning.model.domain.FramePointFor2D;
+import com.smart.fast.learning.model.frame.domain.FramePointFor2D;
 
 import java.util.List;
 

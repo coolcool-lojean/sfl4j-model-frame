@@ -1,6 +1,6 @@
-package com.smart.fast.learning.model.algo;
+package com.smart.fast.learning.model.frame.algo;
 
-import com.smart.fast.learning.model.domain.IntegerArray2D;
+import com.smart.fast.learning.model.frame.domain.IntegerArray2D;
 
 import java.util.ArrayList;
 import java.util.List;

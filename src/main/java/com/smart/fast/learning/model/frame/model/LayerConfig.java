@@ -1,4 +1,4 @@
-package com.smart.fast.learning.model.model;
+package com.smart.fast.learning.model.frame.model;
 
 public class LayerConfig {
 

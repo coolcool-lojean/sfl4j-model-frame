@@ -1,6 +1,6 @@
-package com.smart.fast.learning.model.model;
+package com.smart.fast.learning.model.frame.model;
 
-import com.smart.fast.learning.model.domain.IntegerArray2D;
+import com.smart.fast.learning.model.frame.domain.IntegerArray2D;
 
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
